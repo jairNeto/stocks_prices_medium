@@ -1,0 +1,17 @@
+name,start,end,party
+Eisenhower,1953-01-20,1961-01-20,Republican
+Kennedy,1961-01-20,1963-11-22,Democratic
+Johnson,1963-11-22,1969-01-20,Democratic
+Nixon,1969-01-20,1974-08-09,Republican
+Ford,1974-08-09,1977-01-20,Republican
+Carter,1977-01-20,1981-01-20,Democratic
+Reagan I,1981-01-20,1985-01-20,Republican
+Reagan II,1985-01-20,1989-01-20,Republican
+Bush - Father,1989-01-20,1993-01-20,Republican
+Clinton I,1993-01-20,1997-01-20,Democratic
+Clinton II,1997-01-20,2001-01-20,Democratic
+Bush - I,2001-01-20,2005-01-20,Republican
+Bush - II,2005-01-20,2009-01-20,Republican
+Obama - I,2009-01-20,2013-01-20,Democratic
+Obama - II,2013-01-20,2017-01-20,Democratic
+Trump,2017-01-20,2020-12-02,Republican
