@@ -48,7 +48,7 @@ Aiming at answering the following questions:
 
 ## Results <a name="results"></a>
 
-The results can be found at the medium post available [here](https://medium.com/@jair.neto/does-joe-biden-victory-will-make-your-investments-at-stock-market-skyrocket-9c2dda725a1e).
+The results can be found at the medium post available [here](https://jair-neto.medium.com/does-joe-biden-victory-will-make-your-investments-at-stock-market-skyrocket-9c2dda725a1e).
 
 ## Colab Notebook <a name="colab"></a>
 
