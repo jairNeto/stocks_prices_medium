@@ -4,9 +4,10 @@
 
 1. [Installation](#installation)
 2. [Motivation](#motivation)
-3. [Results](#results)
-4. [Colab Notebook](#colab)
-5. [Final Considerations](#considerations)
+3. [Repository Structure](#repo)
+4. [Results](#results)
+5. [Colab Notebook](#colab)
+6. [Final Considerations](#considerations)
 
 ## Installation <a name="installation"></a>
 
@@ -39,6 +40,11 @@ Aiming at answering the following questions:
 1. Does the elected President party has some influence at stocks prices ?
 2. How the earlier pandemics affected the stock market ?
 3. Is it possible to generate a simple network to predict the stock market prices ?
+
+## Repository Structure <a name="repo"></a>
+
+- The `data` folder contain the information about the presidents terms.
+- The `Udacity_stock.ipynb` has the code with the analysis.
 
 ## Results <a name="results"></a>
 
