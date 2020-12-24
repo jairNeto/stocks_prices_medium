@@ -56,5 +56,4 @@ You can also see the code at the Colab Notebook [here](https://colab.research.go
 
 ## Final Considerations <a name="considerations"></a>
 
-The LSTM part of the code was extracted from this [Github](https://github.com/alexavierc/LSTM-Stock-Prices).
 Go ahead and contribute to this repository, adding more factors that influence stock market prices and improving the model. If you use this code, please give credits.
