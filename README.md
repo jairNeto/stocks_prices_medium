@@ -45,6 +45,8 @@ Aiming at answering the following questions:
 
 - The `data` folder contain the information about the presidents terms.
 - The `Udacity_stock.ipynb` has the code with the analysis.
+- The `LICENSE` has info about the license.
+- The `requirements.txt` has the needed packages to run the notebook.
 
 ## Results <a name="results"></a>
 
@@ -52,8 +54,9 @@ The results can be found at the medium post available [here](https://jair-neto.m
 
 ## Colab Notebook <a name="colab"></a>
 
-You can also see the code at the Colab Notebook [here](https://colab.research.google.com/drive/1a8SB3ozDtLaXJ3IOMSIPW2Syh5BufxzH?usp=sharing)
+You can also see the code at the Colab Notebook [here](https://colab.research.google.com/drive/1l4P5aRVCDHy8jhDoSy1BbZC7_fU9i3BI?usp=sharing)
 
-## Final Considerations <a name="considerations"></a>
+## Final Considerations and acknowledgments <a name="considerations"></a>
 
 Go ahead and contribute to this repository, adding more factors that influence stock market prices and improving the model. If you use this code, please give credits.
+The image used as the cover image at the medium post is a combination of the Images by Drew Angerer / Getty Images North America via AFP, by [reddit] (https://www.reddit.com/r/wallpapers/comments/i3s6x4/this_is_not_exactly_a_wallpaper_but_i_think_that/?utm_source=ifttt) and by Andrew Harnik/AP/Glow Images
